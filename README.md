@@ -1,6 +1,6 @@
 ## Hotel Booking App
 
-https://github.com/stas513/hotel_booking_app.git
+https://stas513.github.io/hotel_booking_app/
 
 Hotel Booking App build with React JS with Context for state management and typescript for static type checking
 
